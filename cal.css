@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1625225233840-695456021cde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FsY3VsYXRvcnxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family:cursive;
+}
+input{
+    border-radius: 25px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(233, 210, 169);
+    font-size: x-large;
+    border-radius: 15px;
+}
+.box{
+    text-align: center;
+    padding: 75px;
+}
+.first{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+.button{
+    padding: 20px;
+    width: 20px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(11, 178, 112);
+    font-size: larger; 
+    border-radius: 8px;
+    cursor: pointer;
+}
